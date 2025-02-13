@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C#\\GestionFichiers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62EC6528-787E-4627-9A7D-CCABF6F13C37}|GestionFichiers\\GestionFichiers.csproj|c:\\c#\\gestionfichiers\\gestionfichiers\\repertoire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62EC6528-787E-4627-9A7D-CCABF6F13C37}|GestionFichiers\\GestionFichiers.csproj|solutionrelative:gestionfichiers\\repertoire.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EC6528-787E-4627-9A7D-CCABF6F13C37}|GestionFichiers\\GestionFichiers.csproj|c:\\c#\\gestionfichiers\\gestionfichiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62EC6528-787E-4627-9A7D-CCABF6F13C37}|GestionFichiers\\GestionFichiers.csproj|solutionrelative:gestionfichiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62EC6528-787E-4627-9A7D-CCABF6F13C37}|GestionFichiers\\GestionFichiers.csproj|c:\\c#\\gestionfichiers\\gestionfichiers\\fichier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62EC6528-787E-4627-9A7D-CCABF6F13C37}|GestionFichiers\\GestionFichiers.csproj|solutionrelative:gestionfichiers\\fichier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C#\\GestionFichiers\\GestionFichiers\\Program.cs",
+              "RelativeDocumentMoniker": "GestionFichiers\\Program.cs",
+              "ToolTip": "C:\\C#\\GestionFichiers\\GestionFichiers\\Program.cs",
+              "RelativeToolTip": "GestionFichiers\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T14:40:38.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Repertoire.cs",
+              "DocumentMoniker": "C:\\C#\\GestionFichiers\\GestionFichiers\\Repertoire.cs",
+              "RelativeDocumentMoniker": "GestionFichiers\\Repertoire.cs",
+              "ToolTip": "C:\\C#\\GestionFichiers\\GestionFichiers\\Repertoire.cs",
+              "RelativeToolTip": "GestionFichiers\\Repertoire.cs",
+              "ViewState": "AgIAAHQAAAAAAAAAAAAUwIEAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:46:31.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fichier.cs",
+              "DocumentMoniker": "C:\\C#\\GestionFichiers\\GestionFichiers\\Fichier.cs",
+              "RelativeDocumentMoniker": "GestionFichiers\\Fichier.cs",
+              "ToolTip": "C:\\C#\\GestionFichiers\\GestionFichiers\\Fichier.cs",
+              "RelativeToolTip": "GestionFichiers\\Fichier.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwBcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T13:44:42.838Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
