@@ -1,0 +1,15 @@
+C:\C#\CSharp-Exercises\Serie1_TP2_ConsommationCafe\Serie1_TP2_ConsommationCafe\bin\Debug\net8.0\Serie1_TP2_ConsommationCafe.exe
+C:\C#\CSharp-Exercises\Serie1_TP2_ConsommationCafe\Serie1_TP2_ConsommationCafe\bin\Debug\net8.0\Serie1_TP2_ConsommationCafe.deps.json
+C:\C#\CSharp-Exercises\Serie1_TP2_ConsommationCafe\Serie1_TP2_ConsommationCafe\bin\Debug\net8.0\Serie1_TP2_ConsommationCafe.runtimeconfig.json
+C:\C#\CSharp-Exercises\Serie1_TP2_ConsommationCafe\Serie1_TP2_ConsommationCafe\bin\Debug\net8.0\Serie1_TP2_ConsommationCafe.dll
+C:\C#\CSharp-Exercises\Serie1_TP2_ConsommationCafe\Serie1_TP2_ConsommationCafe\bin\Debug\net8.0\Serie1_TP2_ConsommationCafe.pdb
+C:\C#\CSharp-Exercises\Serie1_TP2_ConsommationCafe\Serie1_TP2_ConsommationCafe\obj\Debug\net8.0\Serie1_TP2_ConsommationCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\CSharp-Exercises\Serie1_TP2_ConsommationCafe\Serie1_TP2_ConsommationCafe\obj\Debug\net8.0\Serie1_TP2_ConsommationCafe.AssemblyInfoInputs.cache
+C:\C#\CSharp-Exercises\Serie1_TP2_ConsommationCafe\Serie1_TP2_ConsommationCafe\obj\Debug\net8.0\Serie1_TP2_ConsommationCafe.AssemblyInfo.cs
+C:\C#\CSharp-Exercises\Serie1_TP2_ConsommationCafe\Serie1_TP2_ConsommationCafe\obj\Debug\net8.0\Serie1_TP2_ConsommationCafe.csproj.CoreCompileInputs.cache
+C:\C#\CSharp-Exercises\Serie1_TP2_ConsommationCafe\Serie1_TP2_ConsommationCafe\obj\Debug\net8.0\Serie1_TP2_ConsommationCafe.sourcelink.json
+C:\C#\CSharp-Exercises\Serie1_TP2_ConsommationCafe\Serie1_TP2_ConsommationCafe\obj\Debug\net8.0\Serie1_TP2_ConsommationCafe.dll
+C:\C#\CSharp-Exercises\Serie1_TP2_ConsommationCafe\Serie1_TP2_ConsommationCafe\obj\Debug\net8.0\refint\Serie1_TP2_ConsommationCafe.dll
+C:\C#\CSharp-Exercises\Serie1_TP2_ConsommationCafe\Serie1_TP2_ConsommationCafe\obj\Debug\net8.0\Serie1_TP2_ConsommationCafe.pdb
+C:\C#\CSharp-Exercises\Serie1_TP2_ConsommationCafe\Serie1_TP2_ConsommationCafe\obj\Debug\net8.0\Serie1_TP2_ConsommationCafe.genruntimeconfig.cache
+C:\C#\CSharp-Exercises\Serie1_TP2_ConsommationCafe\Serie1_TP2_ConsommationCafe\obj\Debug\net8.0\ref\Serie1_TP2_ConsommationCafe.dll
